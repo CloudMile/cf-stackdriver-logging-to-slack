@@ -1,0 +1,9 @@
+{
+  "name": "cf-stackdriver-logging-to-slack",
+  "version": "0.0.1",
+  "description": "Slack integration for Stackdriver Logging, using Google Cloud Functions",
+  "main": "index.js",
+  "dependencies": {
+    "@slack/client": "3.9.0"
+  }
+}
